@@ -1,1 +1,1 @@
-# Awesome-Graph Methods-Papers-in-Biology
+# Awesome-Graph Method-Papers-in-Biology
