@@ -5,7 +5,15 @@
 
 Predicting the properties of molecules or compounds is a fundamental problem in drug discovery
 
-Each molecule is represented as a graph
+Each molecule is represented as a graph. Many data in this domain are graph-based (Molecules, biomedical knowledge graphs).
+
+#### Problems
+
+1. **Molecule properties prediction**
+2. **De novo melecule design and optimization**
+3. **Retrosythesis prediction**
+4. **reasoning on biomedical knowledge graphs with applications in drug repurposing**
+
 
 The fundamental problem: how to represent a whole molecule (graph)
 
