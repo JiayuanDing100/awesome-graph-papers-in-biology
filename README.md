@@ -1,5 +1,13 @@
 # Awesome-Graph Theory-Papers-in-Biology
 
+
+### Drug discovery
+
+Utilising graph machine learning within drug discovery and development, Arxiv, 2021, 
+
+Drug-drug adverse effect prediction with graph co-attention, Arxiv, 2019, citation: 15
+
+
 ### Diffusion maps:
 
 Diffusion maps for high-dimensional single-cell analysis of differentiation data, Bioinformatics, 2021
