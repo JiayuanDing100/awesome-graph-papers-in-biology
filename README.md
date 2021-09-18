@@ -34,6 +34,26 @@ Whole-Graph Representation Learning**, ICLR, 2020
 1. **A Graph to Graphs Framework for
 Retrosynthesis Prediction**, ICML, 2020
 
+1. **Generating Focussed Molecule Libraries for Drug Discovery with Recurrent Neural Networks**，2017, citation: 652
+
+1.  **Molecular De Novo Design through Deep Reinforcement Learning**, 2017, citation:  455
+
+1. **Application of generative autoencoder in de novo molecular design**, 2018, citation: 233
+
+1. **Objective-Reinforced Generative Adversarial Networks (ORGAN) for Sequence Generation Models**, 2017, citation: 280
+
+1. **Optimizing distributions over molecular space. An Objective-Reinforced Generative Adversarial Network for Inverse-design Chemistry**, 2017, citation: 151
+
+1. **MoleculeNet: A Benchmark for Molecular Machine Learning**, 2017, citation: 850
+
+1. **Retrosynthetic reaction prediction using neural sequence-to-sequence models**, 2018, citation: 218
+
+1. **druGAN: An Advanced Generative Adversarial Autoencoder Model for de Novo Generation of New Molecules with Desired Molecular Properties in Silico**, 2017,  citation:  254
+
+
+
+
+
 #### Reasoing on. Knowledge Graph (drug discovery)
 
 1. **Rotate: Knowledge graph embedding by relational
