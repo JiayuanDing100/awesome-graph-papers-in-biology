@@ -9,10 +9,27 @@ Each molecule is represented as a graph
 
 The fundamental problem: how to represent a whole molecule (graph)
 
+1. **InfoGraph: Unsupervised and Semi-supervised
+Whole-Graph Representation Learning**, ICLR, 2020
 
-Utilising graph machine learning within drug discovery and development, Arxiv, 2021, 
+1. **Utilising graph machine learning within drug discovery and development**, Arxiv, 2021, 
 
-Drug-drug adverse effect prediction with graph co-attention, Arxiv, 2019, citation: 15
+1. **Drug-drug adverse effect prediction with graph co-attention**, Arxiv, 2019, citation: 15
+
+1. **GraphAF: an Autoregressive Flow for Molecular Graph Generation**, ICLR, 2020
+
+1. **A Graph to Graphs Framework for
+Retrosynthesis Prediction**, ICML, 2020
+
+#### Reasoing on. Knowledge Graph (drug discovery)
+
+1. **Rotate: Knowledge graph embedding by relational
+rotation in complex space**, ICLR, 2019
+
+1. **Probabilistic logic neural networks for reasoning**, NIPS, 2019
+
+1. **RNNLogic: Learning Logic Rules
+for Reasoning on Knowledge Graphs**, ICLR, 2021
 
 
 
