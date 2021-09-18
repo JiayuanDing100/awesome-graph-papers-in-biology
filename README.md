@@ -9,7 +9,7 @@ Diffusion maps for high-dimensional single-cell analysis of differentiation data
 Visualizing structure and transitions in high-dimensional biological data,  nature biotechnology, 2019
 
 
-### Protein Structure:
+### Protein structure:
 
 Single-cell classification using graph convolutional networks, BMC Bioinformatics, 2021
 
