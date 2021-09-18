@@ -3,9 +3,17 @@
 
 ### Drug discovery
 
+Predicting the properties of molecules or compounds is a fundamental problem in drug discovery
+
+Each molecule is represented as a graph
+
+The fundamental problem: how to represent a whole molecule (graph)
+
+
 Utilising graph machine learning within drug discovery and development, Arxiv, 2021, 
 
 Drug-drug adverse effect prediction with graph co-attention, Arxiv, 2019, citation: 15
+
 
 
 ### Diffusion maps:
