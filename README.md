@@ -15,14 +15,15 @@ Each molecule is represented as a graph. Many data in this domain are graph-base
 4. **Retrosythesis reaction prediction**
 5. **reasoning on biomedical knowledge graphs with applications in drug repurposing**
 
-
-#### Molecule properties prediction
+## [Molecule properties prediction](#content)   
 1. **A compact review of molecular property prediction with graph neural networks**, 2020, citation: 16
 
-#### De novo melecule design and optimization
+
+## [De novo melecule design and optimization](#content) 
 1. **Advances in De Novo Drug Design: From Conventional to Machine Learning Methods**, 2021
 
-#### Molecular Geometry Prediction
+
+## [Molecular Geometry Prediction](#content) 
 1. **Molecular Geometry Prediction using a Deep Generative Graph Neural Network**, 2019, citation: 35
 
 1. **Learning neural generative dynamics for molecular conformation generation.**, 2021, citation: 9
@@ -32,7 +33,7 @@ Each molecule is represented as a graph. Many data in this domain are graph-base
 1. **Learning gradient fields for molecular conformation generation.**, 2021, citation: 1
 
 
-#### Retrosythesis reaction prediction
+## [Retrosythesis reaction prediction](#content) 
 1. **Enhancing Retrosynthetic Reaction Prediction with Deep Learning Using Multiscale Reaction Classification**, 2019, citation: 49
 
 1. **Retrosynthetic reaction prediction using neural sequence-to-sequence models**, 2017, citation: 218
