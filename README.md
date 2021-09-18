@@ -11,6 +11,7 @@ Each molecule is represented as a graph. Many data in this domain are graph-base
 
 1. **Molecule properties prediction**
 2. **De novo melecule design and optimization**
+3. **Molecular Geometry Prediction**
 4. **Retrosythesis prediction**
 5. **reasoning on biomedical knowledge graphs with applications in drug repurposing**
 
@@ -20,6 +21,19 @@ Each molecule is represented as a graph. Many data in this domain are graph-base
 
 #### De novo melecule design and optimization
 1. **Advances in De Novo Drug Design: From Conventional to Machine Learning Methods**, 2021
+
+#### Molecular Geometry Prediction
+1. **Molecular Geometry Prediction using a Deep Generative Graph Neural Network**, 2019, citation: 35
+
+1. **Learning neural generative dynamics for molecular conformation generation.**, 2021, citation: 9
+
+1. **An End-to-End Framework for Molecular Conformation Generation via Bilevel Programming**, 2021, citation: 1
+
+1. **Learning gradient fields for molecular conformation generation.**, 2021, citation: 1
+
+
+
+
 
 
 
