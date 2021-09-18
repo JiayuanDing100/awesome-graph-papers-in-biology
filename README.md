@@ -11,8 +11,13 @@ Each molecule is represented as a graph. Many data in this domain are graph-base
 
 1. **Molecule properties prediction**
 2. **De novo melecule design and optimization**
-3. **Retrosythesis prediction**
-4. **reasoning on biomedical knowledge graphs with applications in drug repurposing**
+4. **Retrosythesis prediction**
+5. **reasoning on biomedical knowledge graphs with applications in drug repurposing**
+
+#### De novo melecule design and optimization
+1. **Advances in De Novo Drug Design: From Conventional to Machine Learning Methods**, 2021
+
+
 
 
 The fundamental problem: how to represent a whole molecule (graph)
