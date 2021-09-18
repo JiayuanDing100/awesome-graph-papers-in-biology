@@ -12,7 +12,7 @@ Each molecule is represented as a graph. Many data in this domain are graph-base
 1. **Molecule properties prediction**
 2. **De novo melecule design and optimization**
 3. **Molecular Geometry Prediction**
-4. **Retrosythesis prediction**
+4. **Retrosythesis reaction prediction**
 5. **reasoning on biomedical knowledge graphs with applications in drug repurposing**
 
 
@@ -32,10 +32,10 @@ Each molecule is represented as a graph. Many data in this domain are graph-base
 1. **Learning gradient fields for molecular conformation generation.**, 2021, citation: 1
 
 
+#### Retrosythesis reaction prediction
+1. **Enhancing Retrosynthetic Reaction Prediction with Deep Learning Using Multiscale Reaction Classification**, 2019, citation: 49
 
-
-
-
+1. **Retrosynthetic reaction prediction using neural sequence-to-sequence models**, 2017, citation: 218
 
 
 The fundamental problem: how to represent a whole molecule (graph)
