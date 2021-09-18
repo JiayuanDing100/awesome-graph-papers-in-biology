@@ -40,7 +40,13 @@ Each molecule is represented as a graph. Many data in this domain are graph-base
 https://www.cas.org/resources/blog/ai-retrosynthesis-planning
 
 ## [Drug Repurposing](#content)
-1. **
+1. **Neural Bellman-Ford Networks: A General Graph Neural Network Framework for Link Prediction**, 2021
+
+1. **RNNLogic: Learning Logic Rules for Reasoning on Knowledge Graphs**, ICLR, 2021
+
+1. **Probabilistic Logic Neural Networks for Reasoning**, NIPS, 2019
+
+1. **RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space**, ICLR, 2019
 
 
 The fundamental problem: how to represent a whole molecule (graph)
