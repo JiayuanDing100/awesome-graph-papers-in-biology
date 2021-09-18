@@ -1,7 +1,5 @@
 # Awesome-Graph Theory-Papers-in-Biology
 
-### 
-
 ### Diffusion maps:
 
 Diffusion maps for high-dimensional single-cell analysis of differentiation data, Bioinformatics, 2021
@@ -11,13 +9,13 @@ Visualizing structure and transitions in high-dimensional biological data,  natu
 
 ### Protein structure:
 
+Structure-based protein function prediction using graph convolutional networks, Nature Communications, 2021
+
 Single-cell classification using graph convolutional networks, BMC Bioinformatics, 2021
 
 scGNN is a novel graph neural network framework for single-cell RNA-Seq analyses, Nature Communications, 2021
 
 Protein Docking Model Evaluation by Graph Neural Networks, Front. Mol. Biosci, 2021
-
-Structure-based protein function prediction using graph convolutional networks, Nature Communications, 2021
 
 Self-supervised graph transformer on large-scale molecular data， NeurIPS, 2020
 
