@@ -36,6 +36,7 @@ Each molecule is represented as a graph. Many data in this domain are graph-base
 1. **Enhancing Retrosynthetic Reaction Prediction with Deep Learning Using Multiscale Reaction Classification**, 2019, citation: 49
 
 1. **Retrosynthetic reaction prediction using neural sequence-to-sequence models**, 2017, citation: 218
+https://www.cas.org/resources/blog/ai-retrosynthesis-planning
 
 
 The fundamental problem: how to represent a whole molecule (graph)
