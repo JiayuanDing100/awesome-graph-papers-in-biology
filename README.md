@@ -1,5 +1,7 @@
 # Awesome-Graph Theory-Papers-in-Biology
 
+Self-supervised graph transformer on large-scale molecular data， NeurIPS， 2020
+
 GraphDF: A Discrete Flow Model for Molecular Graph Generation, ICML, 2021
 
 GraphEBM: Molecular Graph Generation with Energy-Based Models, Workshap, 2021
