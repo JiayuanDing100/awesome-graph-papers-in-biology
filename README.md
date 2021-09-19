@@ -49,6 +49,13 @@ https://www.cas.org/resources/blog/ai-retrosynthesis-planning
 1. **RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space**, ICLR, 2019
 
 
+## [polypharmacy side effect prediction](#content)
+1. **polypharmacy side effects with graph convolutional networks**, 2018, citation: 443
+2. 
+
+
+
+
 The fundamental problem: how to represent a whole molecule (graph)
 
 1. **InfoGraph: Unsupervised and Semi-supervised
