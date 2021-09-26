@@ -133,7 +133,7 @@ Deep Model Based Transfer and Multi-Task Learning for Biological Image Analysis,
 
 Computational Modeling of Cellular Structures Using Conditional Deep Generative Networks, Bioinformatics, 2019
 
-
+LM-GVP: A Generalizable Deep Learning Framework for Protein Property Prediction from Sequence and Structure, 2021
 
 
 ## [Single Cell RNA sequence](#content)  
