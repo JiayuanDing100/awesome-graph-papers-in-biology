@@ -139,4 +139,6 @@ Graph representation learning for single-cell biology, 2021
 
 Potential applications of deep learning in single-cell RNA sequencing analysis for cell therapy and regenerative medicine, 2021
 
+Disease State Prediction From Single-Cell Data Using Graph Attention Networks, 2020
+
 ## [Single Cell RNA sequence](#content)  
