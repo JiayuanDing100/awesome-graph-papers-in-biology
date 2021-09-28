@@ -135,5 +135,6 @@ Computational Modeling of Cellular Structures Using Conditional Deep Generative 
 
 LM-GVP: A Generalizable Deep Learning Framework for Protein Property Prediction from Sequence and Structure, 2021
 
+Graph representation learningQ1for single-cell biology, 2021
 
 ## [Single Cell RNA sequence](#content)  
