@@ -141,4 +141,6 @@ Potential applications of deep learning in single-cell RNA sequencing analysis f
 
 Disease State Prediction From Single-Cell Data Using Graph Attention Networks, 2020
 
+SCGNN: scRNA-seq Dropout Imputation via Induced Hierarchical Cell Similarity Graph, ICML 2020 workshop
+
 ## [Single Cell RNA sequence](#content)  
