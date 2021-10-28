@@ -153,6 +153,7 @@ Disease State Prediction From Single-Cell Data Using Graph Attention Networks, 2
 
 SCGNN: scRNA-seq Dropout Imputation via Induced Hierarchical Cell Similarity Graph, ICML 2020 workshop
 
+GNNfam: utilizing sparsity in protein family predictions using graph neural networks, 2021
 
 ## [Cancer](#content)  
 Biologically informed deep neural network for prostate cancer discovery, Nature, 2021
