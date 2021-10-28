@@ -51,7 +51,7 @@ https://www.cas.org/resources/blog/ai-retrosynthesis-planning
 
 ## [polypharmacy side effect prediction](#content)
 1. **polypharmacy side effects with graph convolutional networks**, 2018, citation: 443
-2. 
+
 
 
 
@@ -108,7 +108,6 @@ Diffusion maps for high-dimensional single-cell analysis of differentiation data
 
 Visualizing structure and transitions in high-dimensional biological data,  nature biotechnology, 2019
 
-
 ### Protein structure:
 
 Structure-based protein function prediction using graph convolutional networks, Nature Communications, 2021
@@ -151,3 +150,6 @@ SCGNN: scRNA-seq Dropout Imputation via Induced Hierarchical Cell Similarity Gra
 
 ## [Cancer](#content)  
 Biologically informed deep neural network for prostate cancer discovery, Nature, 2021
+
+## [Drug Discovery](#content)  
+Could graph neural networks learn better molecular representation for drug discovery? A comparison study of descriptor-based and graph-based models， 2021
