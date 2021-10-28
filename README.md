@@ -1,11 +1,15 @@
-# Awesome-Graph Theory-Papers-in-Biology
+# Awesome-GNN-Papers-in-Biology
 
+https://pubmed.ncbi.nlm.nih.gov/30555904/ (some related papers)
 
 ### Drug discovery
 
 Predicting the properties of molecules or compounds is a fundamental problem in drug discovery
 
 Each molecule is represented as a graph. Many data in this domain are graph-based (Molecules, biomedical knowledge graphs).
+
+Could graph neural networks learn better molecular representation for drug discovery? A comparison study of descriptor-based and graph-based models， 2021
+
 
 #### Problems
 
@@ -151,5 +155,4 @@ SCGNN: scRNA-seq Dropout Imputation via Induced Hierarchical Cell Similarity Gra
 ## [Cancer](#content)  
 Biologically informed deep neural network for prostate cancer discovery, Nature, 2021
 
-## [Drug Discovery](#content)  
-Could graph neural networks learn better molecular representation for drug discovery? A comparison study of descriptor-based and graph-based models， 2021
+
