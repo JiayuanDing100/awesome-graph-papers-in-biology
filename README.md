@@ -135,6 +135,7 @@ Computational Modeling of Cellular Structures Using Conditional Deep Generative 
 
 LM-GVP: A Generalizable Deep Learning Framework for Protein Property Prediction from Sequence and Structure, 2021
 
+Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation, NIPS 2018
 
 
 ## [Single Cell RNA sequence](#content)  
