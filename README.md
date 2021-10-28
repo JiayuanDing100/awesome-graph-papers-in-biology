@@ -1,4 +1,4 @@
-# Awesome-GNN-Papers-in-Biology
+# Awesome-GNN-Papers-in-Biology (genomics, xx, xx, xx, ...)
 
 https://pubmed.ncbi.nlm.nih.gov/30555904/ (some related papers)
 
