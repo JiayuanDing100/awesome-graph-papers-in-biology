@@ -2,6 +2,8 @@
 
 https://pubmed.ncbi.nlm.nih.gov/30555904/ (some related papers)
 
+https://www.pandelab.org/about
+
 ### Drug discovery
 
 Predicting the properties of molecules or compounds is a fundamental problem in drug discovery
