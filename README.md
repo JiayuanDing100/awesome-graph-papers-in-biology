@@ -45,6 +45,10 @@ Could graph neural networks learn better molecular representation for drug disco
 1. **Retrosynthetic reaction prediction using neural sequence-to-sequence models**, 2017, citation: 218
 https://www.cas.org/resources/blog/ai-retrosynthesis-planning
 
+2. **SemiRetro: Semi-template framework boosts deep retrosynthesis prediction**
+
+3. **Permutation invariant graph-to-sequence model for template-free retrosynthesis and reaction prediction**
+
 ## [Drug Repurposing](#content)
 1. **Neural Bellman-Ford Networks: A General Graph Neural Network Framework for Link Prediction**, 2021
 
