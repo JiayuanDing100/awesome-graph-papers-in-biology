@@ -24,6 +24,9 @@ Could graph neural networks learn better molecular representation for drug disco
 ## [Molecule properties prediction](#content)   
 1. **A compact review of molecular property prediction with graph neural networks**, 2020, citation: 16
 
+2. **3D Pre-training improves GNNs for Molecular Property Prediction， ICLR 2021**
+
+3. **Simple GNN Regularisation for 3D Molecular Property Prediction and Beyond, ICLR 2021**
 
 ## [De novo melecule design and optimization](#content) 
 1. **Advances in De Novo Drug Design: From Conventional to Machine Learning Methods**, 2021
@@ -45,9 +48,9 @@ Could graph neural networks learn better molecular representation for drug disco
 1. **Retrosynthetic reaction prediction using neural sequence-to-sequence models**, 2017, citation: 218
 https://www.cas.org/resources/blog/ai-retrosynthesis-planning
 
-2. **SemiRetro: Semi-template framework boosts deep retrosynthesis prediction**
+2. **SemiRetro: Semi-template framework boosts deep retrosynthesis prediction, ICLR 2021**
 
-3. **Permutation invariant graph-to-sequence model for template-free retrosynthesis and reaction prediction**
+3. **Permutation invariant graph-to-sequence model for template-free retrosynthesis and reaction prediction, ICLR 2021**
 
 ## [Drug Repurposing](#content)
 1. **Neural Bellman-Ford Networks: A General Graph Neural Network Framework for Link Prediction**, 2021
