@@ -158,4 +158,11 @@ GNNfam: utilizing sparsity in protein family predictions using graph neural netw
 ## [Cancer](#content)  
 Biologically informed deep neural network for prostate cancer discovery, Nature, 2021
 
-
+## [Protein-GNN-ICLR 2022](#content)  
+Fast fixed-backbone protein sequence and rotamer design
+Independent SE(3)-Equivariant Models for End-to-End Rigid Protein Docking
+De novo design of protein target specific scaffold-based Inhibitors via Reinforcement Learning
+An Effective GCN-based Hierarchical Multi-label classification for Protein Function Prediction
+Geometric Transformers for Protein Interface Contact Prediction
+Iterative Refinement Graph Neural Network for Antibody Sequence-Structure Co-design
+Granger causal inference on DAGs identifies genomic loci regulating transcription
