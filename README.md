@@ -179,3 +179,48 @@ Geometric Transformers for Protein Interface Contact Prediction
 Iterative Refinement Graph Neural Network for Antibody Sequence-Structure Co-design
 
 Granger causal inference on DAGs identifies genomic loci regulating transcription
+
+## [Molecular-GNN-ICLR 2022](#content)  
+Spanning Tree-based Graph Generation for Molecules
+
+Molecular Graph Generation via Geometric Scattering
+
+Generating Realistic 3D Molecules with an Equivariant Conditional Likelihood Model
+
+Chemical-Reaction-Aware Molecule Representation Learning
+
+Relative Molecule Self-Attention Transformer
+
+Differentiable Scaffolding Tree for Molecule Optimization
+
+MS2-Transformer: An End-to-End Model for MS/MS-assisted Molecule Identification
+
+Graph Piece: Efficiently Generating High-Quality Molecular Graphs with Substructures
+
+Pre-training Molecular Graph Representation with 3D Geometry
+
+Spherical Message Passing for 3D Molecular Graphs
+
+GraphEBM: Towards Permutation Invariant and Multi-Objective Molecular Graph Generation
+
+Data-Efficient Graph Grammar Learning for Molecular Generation
+
+Learning to Extend Molecular Scaffolds with Structural Motifs
+
+Stepping Back to SMILES Transformers for Fast Molecular Representation Inference
+
+An Autoregressive Flow Model for 3D Molecular Geometry Generation from Scratch
+
+Learning 3D Representations of Molecular Chirality with Invariance to Bond Rotations
+
+GeoDiff: A Geometric Diffusion Model for Molecular Conformation Generation
+
+3D-Transformer: Molecular Representation with Transformer in 3D Space
+
+Crystal Diffusion Variational Autoencoder for Periodic Material Generation
+
+Knowledge Guided Geometric Editing for Unsupervised Drug Design
+
+Spatial Graph Attention and Curiosity-driven Policy for Antiviral Drug Discovery
+
+MoReL: Multi-omics Relational Learning
