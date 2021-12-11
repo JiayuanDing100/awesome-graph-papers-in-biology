@@ -1,5 +1,10 @@
 # Awesome-GNN-Papers-in-Biology (genomics, xx, xx, xx, ...)
 
+Single cell analysis:
+1. Deep learning tackles single-cell analysis – A survey of deep learning for scRNA-seq analysis
+2. Eleven grand challenges in single-cell data science
+
+
 https://pubmed.ncbi.nlm.nih.gov/30555904/ (some related papers)
 
 https://www.pandelab.org/about
