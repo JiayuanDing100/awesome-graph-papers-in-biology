@@ -231,3 +231,35 @@ Knowledge Guided Geometric Editing for Unsupervised Drug Design
 Spatial Graph Attention and Curiosity-driven Policy for Antiviral Drug Discovery
 
 MoReL: Multi-omics Relational Learning
+
+## [Molecular-GNN-NIPS 2021](#content) 
+
+Molecules: 
+
+GemNet: Universal Directional Graph Neural Networks for Molecules
+
+Directional Message Passing on Molecular Graphs via Synthetic Coordinates
+
+GeoMol: Torsional Geometric Generation of Molecular 3D Conformer Ensembles
+
+Autobahn: Automorphism-based Graph Neural Nets
+
+Predicting Molecular Conformation via Dynamic Graph Score Matching
+
+Multi-Scale Representation Learning on Proteins
+
+Molecular Property Prediction:
+
+Motif-based Graph Self-Supervised Learning for Molecular Property Prediction
+
+Property-aware Adaptive Relation Networks for Molecular Property Prediction
+
+Retrosynthesis:
+
+Towards understanding retrosynthesis by energy-based models
+
+Learning Graph Models for Retrosynthesis Prediction
+
+
+
+
